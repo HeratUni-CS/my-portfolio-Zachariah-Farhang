@@ -1,7 +1,7 @@
 # portfolio
 
-A new Flutter project.
+Zachariah Farhang, Database Project, 2023, Portfolio.
 
 ## Notes
 
-This project has been edited and meged with origin/master after initial submission
+This project has been edited and merged with origin/master after initial submission
