@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
                 backgroundImage: AssetImage('images/1.png'),
               ),
               Text(
-                'Flutter Developer',
+                'Professional Programmer',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   fontSize: 20.0,
@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+93 792 123 456',
+                    '+93 728789018',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'SansPro',
@@ -67,7 +67,7 @@ class _MyAppState extends State<MyApp> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'example@gmail.com',
+                    'zachariah.farhang@gmail.com',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'SansPro',
