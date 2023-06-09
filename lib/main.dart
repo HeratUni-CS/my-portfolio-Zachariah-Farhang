@@ -43,7 +43,7 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
               Card(
-                margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
+                margin: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: ListTile(
                   leading: const Icon(
                     Icons.phone,
@@ -60,7 +60,7 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
               Card(
-                margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
+                margin: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: ListTile(
                   leading: const Icon(
                     Icons.email,
